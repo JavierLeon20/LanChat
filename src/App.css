@@ -1,0 +1,229 @@
+body{
+  background-image: url(Imagenes/Fondo.png);
+  background-size: cover;
+  font-family: Tahoma;
+}
+
+#Logo{
+  height: 100px;
+  width: auto;
+  position: absolute;
+    left: 2%;
+    top: 2%;
+}
+
+.Button{
+  font-family: Tahoma;
+  display: inline-block;
+  padding: 3px;
+  padding-left: 5px;
+  padding-right: 5px;
+  font-weight:300;
+  background-color: #E5E7E9;
+  color:black;
+  box-shadow:  0 1px 1px gray;
+  position: relative;
+  text-decoration: none;
+}
+
+#Prin{
+  position: absolute;
+  left: 35%;
+  top: 50%;
+}
+
+#FlagP{
+  height: 150px;
+  width: auto;
+}
+
+#InicP{
+  position: absolute;
+    left: 81%;
+    top: 5%;
+}
+
+#RegiP{
+  position: absolute;
+    left: 90%;
+    top: 5%;
+}
+
+#LinP{
+  height: 100px;
+  width: 1100px;
+  position: absolute;
+    left: 10%;
+    top: 40%;
+}
+
+#titP{
+  font-family: Tahoma;
+  position: absolute;
+    left: 33%;
+    top: 34%;
+}
+
+#Formulario{
+  margin:auto;
+  margin-top: 50px;
+  width: 550px;
+  height: 520px;
+  box-shadow:  0 1px 1px gray;
+  background-color: rgb(245, 243, 243);
+}
+
+input{
+  border:none;
+  background-color: rgb(245, 243, 243);
+  width: 450px;
+  font-family: tahoma;
+}
+
+#corr{
+  position: absolute;
+    left: 35%;
+    top: 17%;
+}
+
+#pasw{
+  position: absolute;
+  left: 35%;
+  top: 34%;
+}
+
+#LinIF{
+  height: 100px;
+  width: 450px;
+  position: absolute;
+    left: 34%;
+    top: 14%;
+}
+
+#LinCF{
+  height: 100px;
+  width: 450px;
+  position: absolute;
+    left: 34%;
+    top: 31%;
+}
+
+#InicF{
+  position: absolute;
+    left: 58%;
+    top: 68%;
+}
+
+#RegiF{
+  position: absolute;
+    left: 35%;
+    top: 68%;
+}
+
+#Form{
+  position: absolute;
+  left: 40%;
+  top: 48%;
+}
+
+#FlagF{
+  height: 110px;
+  width: auto;
+}
+
+#nick{
+  position: absolute;
+  left: 35%;
+  top: 26%;
+}
+
+#LinNF{
+  height: 100px;
+  width: 450px;
+  position: absolute;
+    left: 34%;
+    top: 23%;
+}
+
+#titF{
+  font-family: Tahoma;
+  font-size: large;
+  position: absolute;
+    left: 45%;
+    top: 43%;
+}
+
+#CajaC{
+  margin:auto;
+  position: absolute;
+    left: 30%;
+    top: 17%;
+  margin-top: 50px;
+  width: 800px;
+  height: 520px;
+  box-shadow:  0 1px 1px gray;
+  background-color: rgb(245, 243, 243);
+}
+
+#env{
+  position: absolute;
+  left: 82%;
+  top: 82%;
+}
+
+#msgg{
+  position: absolute;
+    left: 8%;
+    top: 83%;
+    width: 500px;
+}
+
+#LinCH{
+  height: 100px;
+  width: 600px;
+  position: absolute;
+    left: 5%;
+    top: 79%;
+}
+
+#CajaCc{
+  margin:auto;
+  position: absolute;
+    left: 15%;
+    top: 7%;
+  margin-top: 50px;
+  width: 500px;
+  height: 300px;
+  box-shadow:  2px 2px 2px gray;
+  background-color: rgb(245, 243, 243);
+}
+
+#LinV{
+  height: 100px;
+  width: 600px;
+  position: absolute;
+    left: -9%;
+    top: 52%;
+    transform: rotate(90deg);
+}
+
+#list{
+  position: absolute;
+  left: 4%;
+  top: 15%;
+  font-family: Tahoma;
+}
+
+#Chat{
+  position: absolute;
+  left: -10%;
+  top: 48%;
+  transform: rotate(90deg);
+}
+
+#Bob{
+  width: 20px;
+  position: absolute;
+  left: 98%;
+  top: 96%;
+}
